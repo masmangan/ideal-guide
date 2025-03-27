@@ -57,5 +57,7 @@ Observe que o TestExample.java utiliza o Lexer e o Parser para analisar o conte√
 ```
 java TestExample
 ```
+Deve ser apresentada uma √°rvore em formato de lista aninhada.
+
 
 
