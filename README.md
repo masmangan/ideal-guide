@@ -45,8 +45,14 @@ Entre na pasta example, gere o Lexer e o Parser descritos no Example.g4:
 ```
 antlr4 Example.g4
 ```
+Vários arquivos serão gerados, incluindo arquivos .java.
+Compile os arquivos .java com:
 
-Observer que o TesteExample.java utiliza o Lexer e o Parser para analisar o conteúdo do arquivo input.txt, ativando a regra prog().
+```
+javac *.java
+```
+
+Observe que o TestExample.java utiliza o Lexer e o Parser para analisar o conteúdo do arquivo input.txt, ativando a regra prog().
 
 ```
 java TestExample
