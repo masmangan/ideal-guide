@@ -1,13 +1,13 @@
-# Getting Started with ANTLR v4, using GitHub CodeSpaces, and Java
+# Getting Started with ANTLR v4 using GitHub CodeSpaces and Java
 
-If you are using Java as your programming language of choice to develop lexers and parsers, this guide may help you.
+If you are using Java as your programming language of choice to develop lexers and parsers, this guide is for you.
 
-Cloud based computing is a platform that let you setup and configure a computer somewhere on the cloud.
-In this guide, we chose GitHub Codespaces.
-You will need a GitHub account in order to continue (link here). Check if you are eligible to GitHub for Education (link here).
+Cloud based computing is a platform that lets you setup and configure a virtual computer in the cloud.
+In this guide, we will use GitHub Codespaces.
+You will need a GitHub account ito proceed (link here). Also, check if you are eligible for GitHub for Education (link here).
 
-ANTLR and GitHub CodeSpaces support some programming languages out of the box, like C, C++, or Python.
-In this guide, we chose Java, mostly because it is a language that many students are familiar with. 
+ANTLR and GitHub CodeSpaces support some programming languages out of the box, including C, C++, Python, and Java.
+In this guide, we have chosen Java, primarily because many students are familiar with it. 
 
 ## Getting started with a GitHub CodeSpaces area
 
