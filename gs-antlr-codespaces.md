@@ -9,21 +9,21 @@ You will need a GitHub account ito proceed (link here). Also, check if you are e
 ANTLR and GitHub CodeSpaces support some programming languages out of the box, including C, C++, Python, and Java.
 In this guide, we have chosen Java, primarily because many students are familiar with it. 
 
-## Getting started with a GitHub CodeSpaces area
+## Getting started with a GitHub CodeSpace
 
-We will start creating a new repository. Make sure you select a README, and .gitignore file related to Java.
-
-(Image here)
-
-Next, we will create a code space, that will have a Linux box with java, javac, and Maven ready.
+We will start creating a new GitHub repository. When doing so, make sure to include a README.md file and .gitignore file configured to Java.
 
 (Image here)
 
-This code space will be setup once and will be available as long as the code space is not removed.
+Next, we will create a CodeSpace- a cloud-based development environment that runs on Linux machine with java, javac, and Maven pre-installed.
 
-This setup is particularly helpful if you do not have administrator privileges on your machine or if you need to use different computers along the day (e.g. at home, at school, at work, computer labs along the week). Just use your web browser to access your code space from wherever computer you have at the moment.
+(Image here)
 
-The downside of cloud computing is that you need a reliable Internet connection.
+This Codespace is setup once and remains available as long as you don't delete it.
+
+This setup is especially useful if you do not have administrator privileges on your machine, or if you switch between multiple computers along the week (e.g. at home, at school, at work, or in computer labs). You can simply use a web browser to access your Codespace from any device.
+
+Note: the maind drawback of cloud-computing is that you need a reliable Internet connection.
 
 ## ANTLR Installation
 
