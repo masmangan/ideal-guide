@@ -27,9 +27,18 @@ Note: the maind drawback of cloud-computing is that you need a reliable Internet
 
 ## ANTLR Installation
 
-ANTLR is really two things: a tool written in Java that translates your grammar to a parser/lexer in Java (or other target language) and the runtime library needed by the generated parsers/lexers. Even if you are using the VS Code extension, the generated code will still need the runtime library. 
+ANTLR consists of two main components:
+1. The ANTLR Tool: written in Java, that translates your grammar files into lexer and parser code (written in Java or another target language).
+2. The ANTLR Runtime Library: Required to run the generated parsers and lexers code.
 
-The first thing you should do is download and install a VS Code extension to get a nice text editor and diagrams for you to check your grammar. Even if you only use such tools for editing, they are great. 
+Note: Even if you are using the VS Code extension, your generated code will still need the runtime library. 
+
+### Install ANTLR VSCode extension
+
+Start by installing the ANTLR VS Code extension. It provides a grammar-aware text editor with syntax highlighting and diagram previews, making it easier to write and understand your grammar.
+
+Even if you only use the extension for editing, it’s a valuable tool for visualizing and validating your grammar files.
+
 
 (Image here)
 
